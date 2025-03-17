@@ -1,14 +1,4 @@
-# COMP0171-Bayesian-Deep-Learning-CW2
-
-- **Final Grades:** 93/100  
-  - **Comments:**
-    - [PART 1 (17/19)] Good implementation; For free response, partial credit; yes inference methods are different, but in reason #2 why does the different posterior estimate have such an effect in data space?
-    - [PART 2 (11/11)] For part 2, what does temperature scaling do when the data near the decision boundary looks like in the paper? Works well, but fully connected layers have lots of parameters (so no EC)
----
-
-## Overview
-
-This repository contains coursework solutions for **COMP0171: Bayesian Deep Learning**. It explores Bayesian methods in deep learning, emphasizing probabilistic modeling, uncertainty quantification, and posterior inference.
+This repository explores Bayesian methods in deep learning, emphasizing probabilistic modeling, uncertainty quantification, and posterior inference.
 
 Key topics covered:
 - **Probabilistic Modeling**: Understanding Bayesian approaches for parameter estimation.
